@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HandsomeTurtle0307/HandsomeTurtle0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐢 HandsomeTurtle0307
 
-Here are some ideas to get you started:
+![status](https://img.shields.io/badge/状态-和作业激烈搏斗-blue?style=for-the-badge)
+![status](https://img.shields.io/badge/喜欢的动物-乌龟-green?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+这里做一些奇奇怪怪的东西（我也说不清具体做啥），可能有用也可能没用，
+但都是为了解决麻烦而生的（大概率是）
+
+</div>
+
+---
+
+## 关于这里
+正如上面所说的，这里放的是我做的一些小工具  
+学习压力有的时候大到爆，再加上我个人的心理状态堪忧（嗯），所以有时间自己捣鼓捣鼓编程  
+还有一些一时兴起，但是越维护越舒服的东西（虽然目前没几个）  
+大多数项目不大（事实上目前根本没有大项目，嘿嘿😄）  
+
+## 我的状态
+```txt
+上线时间： 平时和作业搏斗，周末捣鼓项目
+所在位置： 课桌前/电脑前/梦里
+开发环境： 每次更新都能看见奇奇怪怪的bug的Windows11（bushi）
+常用工具： VS Code，Qt以及乌龟 :)
+```
+## 喜欢的东西
+`C++` · `Python` · `Qt` · `音乐` · `电脑` · `乌龟🐢`
+
+---
+
+## 最后
+这些项目纯是个人闲来无事搞出来的，不是成熟的产品哦~如果有任何意见，欢迎在对应仓库的Issues里讨论！👏👏👏
+
+> 还有就是，乌龟真的很可爱！
