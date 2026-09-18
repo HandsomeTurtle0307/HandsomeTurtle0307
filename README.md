@@ -2,7 +2,7 @@
 
 # 🐢 HandsomeTurtle0307
 
-![status](https://img.shields.io/badge/状态-和作业激烈搏斗-blue?style=for-the-badge)
+![status](https://img.shields.io/badge/状态-难受😣-blue?style=for-the-badge)
 ![status](https://img.shields.io/badge/喜欢的动物-乌龟-green?style=for-the-badge)
 
 <br>
