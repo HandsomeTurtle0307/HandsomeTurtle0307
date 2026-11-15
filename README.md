@@ -38,4 +38,6 @@
 ## 最后
 这些项目纯是个人闲来无事搞出来的，不是成熟的产品哦~如果有任何意见，欢迎在对应仓库的Issues里讨论！👏👏👏
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=HandsomeTurtle0307&theme=radical&hide_border=true)
+
 > 还有就是，乌龟真的很可爱！
